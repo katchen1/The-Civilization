@@ -4,7 +4,7 @@
 Discover a lost civilization, explore the Hidden Ruins, and find lost treasure!
 
 Professor Wang is on the brink of the archaeological breakthrough of a lifetime - discovering the mysterious 人 Civilization, which is rumored to have the key to eternal life. His plans are foiled when the Chickencer King, an unscrupulous rival archaeologist, forces his way onto the scene with the help of his armed Chickencer Guards. Will you be able to stop the Chickencer King before he takes the treasures of the 人 Civilization for himself?
-> **Video link:** https://youtu.be/jrz7P2mSvOA
+> **Video link:** https://youtu.be/SuJCXQp7T9E
 
 ![](https://i.ibb.co/d7r3DHs/a0.png)
 ![](https://i.ibb.co/xJ7BLng/a0-1.png)
