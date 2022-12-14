@@ -46,3 +46,10 @@ Please run on the **MacOS platform**. To open the application:
 1. Download the build file and save it to a local folder.
 2. Right click on the file → click "Open".
 3. If you run into the "application cannot be opened" error, set the executable flag by running `chmod -R +x <app name>.app/Contents/MacOS` in the terminal, then try opening the file again.
+## Acknowledgements
+* Thank you to the CS476A Fall 2022 teaching team and classmates for feedback on my milestones for this project.
+* Assets used:
+  * Dialog system: https://github.com/DoublSB/UnityDialogAsset
+  * Platformer 2D art: https://assetstore.unity.com/packages/tools/gui/d-dialogue-system-167312
+  * UI pack: https://assetstore.unity.com/packages/2d/gui/icons/sleek-essential-ui-pack-170650
+
