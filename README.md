@@ -21,7 +21,7 @@ The player plays the role of a **Heroic Archaeologist** following **Professor Wa
 
 The player must use their knowledge of the **principles and concepts discussed in the [*Artful Design* textbook](https://artful.design/)** to navigate through various challenges and outsmart the **Chickencer King** and his armed guards, who are trying to steal the treasures of the 人 Civilization for themselves.
 
-Along the way, the player must also pay attention to **how the attributes of the background music change, graphically reflected in the the moving clouds**. This is a clue that can help them in their quest to beat the chickens to the treasures.
+Along the way, the player must also pay attention to **how the attributes of the background music change, which is also graphically reflected in the moving clouds**. This is a clue that can help them in their quest to beat the chickens to the treasures.
 
 The game ends in **success** when the player saves the treasures of the 人 Civilization in time. The game ends in **failure** when the player runs out of time and the Chickencer King succeeds in stealing the treasures.
 
